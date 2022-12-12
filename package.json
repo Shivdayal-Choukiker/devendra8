@@ -2,10 +2,10 @@
   "name": "demo748",
   "version": "1.0.0",
   "description": "",
-  "main": "mobileapp.js",
+  "main": "carwork.js",
   "scripts": {
     "test": "echo\"Error:notestspecified\"&&exit1",
-    "start": "node mobileapp.js"
+    "start": "node carwork.js"
   },
   "keywords": [],
   "author": "",
