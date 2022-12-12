@@ -2,7 +2,7 @@
   "name": "demo748",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "mobileapp.js",
   "scripts": {
     "test": "echo\"Error:notestspecified\"&&exit1",
     "start": "node mobileapp.js"
